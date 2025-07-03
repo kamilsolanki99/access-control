@@ -1,4 +1,12 @@
 {
-  "abhay": "on",
-  "kiran": "off"
+  "users": {
+    "kamil": {
+      "password": "d1a93ce68fa015d4f2073d3e5f378b4e88eeb2dc0d5043124f3462ec108b5641",
+      "status": "on"
+    },
+    "priyanka": {
+      "password": "15a75515ea3f8e9d52dbff19137d15ddc151d8d2ebd0e0c896015f1507df4cc2",
+      "status": "off"
+    }
+  }
 }
