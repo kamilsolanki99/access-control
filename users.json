@@ -1,9 +1,9 @@
 {
   "users": {
     "kamil": {
-    "password": "fd93014d4f5705b5320a46542d988df18048ac5c93d883176d6e38def53eaf3e",
-    "status": "on"
-  }
+      "password": "fd93014d4f5705b5320a46542d988df18048ac5c93d883176d6e38def53eaf3e",
+      "status": "on"
+    },
     "priyanka": {
       "password": "15a75515ea3f8e9d52dbff19137d15ddc151d8d2ebd0e0c896015f1507df4cc2",
       "status": "off"
