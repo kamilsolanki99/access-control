@@ -136,5 +136,11 @@
     "login_time": "2025-07-10 11:35:55",
     "logout_time": "2025-07-10 12:56:33",
     "duration": "1:20:38"
+  },
+  {
+    "username": "priyanka",
+    "login_time": "2025-07-10 14:41:15",
+    "logout_time": "2025-07-10 14:41:46",
+    "duration": "0:00:31"
   }
 ]
