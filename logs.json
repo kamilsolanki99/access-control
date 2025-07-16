@@ -337,5 +337,13 @@
     "logout_time": "2025-07-16 18:52:44",
     "duration": "0:02:17",
     "is_active": false
+  },
+  {
+    "username": "kamil",
+    "device_id": "47195892e8800ea34cc445aa44a8985ccdaf2f73a4b6513907a55cab42f1ceb6",
+    "login_time": "2025-07-16 18:55:32",
+    "logout_time": null,
+    "duration": null,
+    "is_active": true
   }
 ]
