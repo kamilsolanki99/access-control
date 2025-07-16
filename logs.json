@@ -270,5 +270,12 @@
     "logout_time": "2025-07-16 18:33:18",
     "duration": "0:31:49.591595",
     "is_active": false
+  },
+  {
+    "username": "kamil",
+    "login_time": "2025-07-16 18:33:19",
+    "logout_time": "2025-07-16 18:36:20",
+    "duration": "0:03:01",
+    "is_active": false
   }
 ]
