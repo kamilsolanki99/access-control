@@ -248,8 +248,9 @@
   {
     "username": "kamil",
     "login_time": "2025-07-16 13:41:56",
-    "logout_time": "2025-07-16 16:28:35",
-    "duration": "2:46:39"
+    "logout_time": "2025-07-16 18:34:15",
+    "duration": "4:52:19.545353",
+    "is_active": false
   },
   {
     "username": "priyanka",
