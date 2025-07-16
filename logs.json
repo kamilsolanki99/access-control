@@ -266,7 +266,8 @@
   {
     "username": "kamil",
     "login_time": "2025-07-16 18:01:29",
-    "logout_time": "2025-07-16 18:06:36",
-    "duration": "0:05:07"
+    "logout_time": "2025-07-16 18:33:18",
+    "duration": "0:31:49.591595",
+    "is_active": false
   }
 ]
