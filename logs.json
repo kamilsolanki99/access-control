@@ -369,5 +369,11 @@
     "logout_time": null,
     "duration": null,
     "is_active": true
+  },
+  {
+    "username": "kamil",
+    "login_time": "2025-07-16 18:57:59",
+    "logout_time": "2025-07-16 18:58:42",
+    "duration": "0:00:43"
   }
 ]
