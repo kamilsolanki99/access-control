@@ -533,5 +533,11 @@
     "error_type": "ConnectionError",
     "error_message": "Could not reach host. Are you offline?",
     "extra_info": null
+  },
+  {
+    "username": "kamil",
+    "login_time": "2025-07-23 15:06:01",
+    "logout_time": "2025-07-23 15:33:47",
+    "duration": "0:27:46"
   }
 ]
