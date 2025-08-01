@@ -695,5 +695,11 @@
     "login_time": "2025-07-31 22:21:32",
     "logout_time": "2025-07-31 22:27:21",
     "duration": "0:05:49"
+  },
+  {
+    "username": "priyanka",
+    "login_time": "2025-08-01 11:48:50",
+    "logout_time": "2025-08-01 14:14:12",
+    "duration": "2:25:22"
   }
 ]
