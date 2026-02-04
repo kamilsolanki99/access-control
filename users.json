@@ -5,12 +5,12 @@
       "status": "on"
     },
     "priyanka": {
-    "password": "a902035feedf9d78a2ff102e89b6b9ef2fdc6ba95437659578d79b71f351042c",
-    "status": "off"
+      "password": "a902035feedf9d78a2ff102e89b6b9ef2fdc6ba95437659578d79b71f351042c",
+      "status": "off"
     },
     "kirit": {
-    "password": "6d482f21fc810e878ab3692bd8c67dc73fe1a97b378e4fa78abc293a5ca0985c",
-    "status": "on"
-    },
+      "password": "6d482f21fc810e878ab3692bd8c67dc73fe1a97b378e4fa78abc293a5ca0985c",
+      "status": "on"
+    }
   }
 }
