@@ -10,9 +10,9 @@
     },
     "kirit": {
       "password": "6d482f21fc810e878ab3692bd8c67dc73fe1a97b378e4fa78abc293a5ca0985c",
-      "status": "on",
+      "status": "off",
       "paid_until": "01-07-26",
-      "expiry": "01-08-26"
+      "expiry": "31-07-26"
     }
   }
 }
